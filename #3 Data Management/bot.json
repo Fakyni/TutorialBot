@@ -1,0 +1,15 @@
+{
+  "token": "",
+  "maintenance": true,
+  "developers": [
+    
+  ],
+  "default": {
+    "user": {
+      "money": 0.0
+    },
+    "guild": {
+      "prefix": "~"
+    }
+  }
+}
