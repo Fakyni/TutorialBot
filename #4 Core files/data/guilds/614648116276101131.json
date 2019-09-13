@@ -1,0 +1,17 @@
+{
+  "prefix": "~",
+  "join": {
+    "enabled": true,
+    "sendMessage": true,
+    "channel": "614648116276101133",
+    "message": "Welcome **$@user** to our guild! You are user **#$count**",
+    "roles": {
+      "619724031880331266": "Example Auto Role"
+    }
+  },
+  "leave": {
+    "enabled": true,
+    "channel": "614648116276101133",
+    "message": "**$tag** ($id) has decided to leave our guild."
+  }
+}
