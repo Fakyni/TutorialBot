@@ -1,0 +1,25 @@
+{
+  "token": "",
+  "maintenance": true,
+  "developers": [],
+  "default": {
+    "user": {
+      "money": 0.0
+    },
+    "guild": {
+      "prefix": "~",
+      "join": {
+        "enabled": false,
+        "sendMessage": true,
+        "channel": "",
+        "message": "Welcome **$@user** to our guild! You are user **#$count**",
+        "roles": {}
+      },
+      "leave": {
+        "enabled": false,
+        "channel": "",
+        "message": "**$tag** ($id) has decided to leave our guild!"
+      }
+    }
+  }
+}
